@@ -1,2 +1,3 @@
 # ft_printf
-Because ft_putnbr() and ft_putstr() aren’t enough
+
+The goal of this project was pretty straightforward. I recoded printf(). Mainly learned about using a variable number of arguments.
